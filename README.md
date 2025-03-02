@@ -8,7 +8,8 @@
 [![GitHub Youhanna Yousry](https://img.shields.io/github/followers/Youhanna-Yousry?label=follow&style=social)](https://github.com/Youhanna-Yousry)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Senior student at Faculty of Engineering Alexandria University\
+💡 &nbsp;Junior Software Engineer at Eventum solutions and CSED alumni
+
 ✉️ &nbsp;You can email me at youhanna.yousry.2580@gmail.com
 
 
